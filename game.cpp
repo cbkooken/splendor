@@ -1,7 +1,7 @@
 /*
  * game.cpp
  * CS11 Splendor
- * Edited by: Cam Kooken (@kkooke01)
+ * Edited by: Cam Kooken (@cbkooken)
  */
 
 #include "game.h"
