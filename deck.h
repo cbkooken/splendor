@@ -1,7 +1,7 @@
 /*
  *  deck.h
  *  CS11 Splendor
- *  Edited by: Kate Kooken (@kkooke01)
+ *  Edited by: Cam Kooken (@cbkooken)
  */
 
 #ifndef VECTOR_H
