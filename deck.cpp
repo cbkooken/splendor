@@ -1,30 +1,19 @@
 /*
  *  deck.cpp
  *  CS11 Splendor
- *  Edited by: Kate Kooken (@kkooke01)
+ *  Edited by: Cam Kooken (@cbkooken)
  */
 
 #include "deck.h"
 
-/* Constructor to initialize an empty vector with one open slot.
- * Notes about constructors in general: 
- *  1. Constructors have the same name as their class.
- *  2. Constructors don't have return types.
- *  3. Constructors are automatically called when an object is created. 
- *  4. Without this constructor, a new vector's fields would be garbage. */
+//constructor
 Vector::Vector() {
   capacity = 0;
   vSize = 0;
   buffer = nullptr;
 }
 
-/* Destructor to delete dynamically allocated memory associated with a vector.
- * Notes about destructors in general: 
- *  1. Destructors have the same name as their class with a ~ in the front.
- *  2. Destructors don't have return types.
- *  3. Destructors are automatically called when an object goes out of scope. 
- *  4. Without this destructor, a vector's memory is never deleted (since the
- *     only pointer to it is private to the class) */
+//destructor
 Vector::~Vector() {
   if (buffer != nullptr) {
     delete [] buffer;
