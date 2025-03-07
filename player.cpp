@@ -1,7 +1,7 @@
 /*
  *  player.cpp
  *  CS11 Splendor
- *  Created by: Cam Kooken (@kkooke01)
+ *  Created by: Cam Kooken (@cbkooken)
  */
 
 #include "player.h"
