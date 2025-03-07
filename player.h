@@ -1,7 +1,7 @@
 /*
  *  player.h
  *  CS11 Splendor
- *  Created by: Kate Kooken (@kkooke01)
+ *  Created by: Cam Kooken (@cbkooken)
  */
 
 #ifndef PLAYER_H
