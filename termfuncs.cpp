@@ -1,13 +1,3 @@
-// -- NOTE TO CS11 STUDENTS ----------------
-//
-//   DO NOT EDIT OR COPY CODE FROM THIS FILE
-//   TO USE THESE FUNCTIONS:
-//     at the top of your code put: #include "termfuncs.h"
-//
-//   DO NOT DO THIS:
-//      #include "termfuncs.cpp"
-//
-//
 //   termfuncs.cpp -- some simple functions for using the terminal nicely
 //
 //   char getachar()     -- returns next char with no echo and no Enter needed
