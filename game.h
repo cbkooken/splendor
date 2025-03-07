@@ -1,7 +1,7 @@
 /*
  * game.h
  * CS11 Splendor
- * Edited by: Cam Kooken (@kkooke01)
+ * Edited by: Cam Kooken (@cbkooken)
  */
 
 #ifndef GAME_H
